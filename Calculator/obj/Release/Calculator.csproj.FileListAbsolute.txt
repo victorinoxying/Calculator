@@ -1,0 +1,15 @@
+C:\Users\victorinoxying\Desktop\Calculator\Calculator\bin\Release\Calculator.exe.config
+C:\Users\victorinoxying\Desktop\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\victorinoxying\Desktop\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\victorinoxying\Desktop\Calculator\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\victorinoxying\Desktop\Calculator\Calculator\obj\Release\Calculator.Background.resources
+C:\Users\victorinoxying\Desktop\Calculator\Calculator\obj\Release\Calculator.Help.resources
+C:\Users\victorinoxying\Desktop\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\victorinoxying\Desktop\Calculator\Calculator\obj\Release\Calculator.UserControl1.resources
+C:\Users\victorinoxying\Desktop\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+C:\Users\victorinoxying\Desktop\Calculator\Calculator\obj\Release\Calculator.exe
+C:\Users\victorinoxying\Desktop\Calculator\Calculator\obj\Release\Calculator.pdb
+C:\Users\victorinoxying\Desktop\Calculator\Calculator\bin\Release\Calculator.exe.manifest
+C:\Users\victorinoxying\Desktop\Calculator\Calculator\bin\Release\Calculator.application
+C:\Users\victorinoxying\Desktop\Calculator\Calculator\obj\Release\Calculator.exe.manifest
+C:\Users\victorinoxying\Desktop\Calculator\Calculator\obj\Release\Calculator.application
